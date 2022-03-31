@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaFrutass</string>
+    <string-array name="lista_fruta">
+        <item>cereja</item>
+        <item>morango</item>
+        <item>carne</item>
+        <item>jorge</item>
+        <item>melancia</item>
+    </string-array>
+</resources>
